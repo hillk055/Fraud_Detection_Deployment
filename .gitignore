@@ -1,0 +1,7 @@
+.venv
+.vscode
+mlruns/
+.env
+*.csv
+eda.py
+mlflow.db
