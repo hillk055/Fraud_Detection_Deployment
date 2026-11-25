@@ -5,3 +5,4 @@ mlruns/
 *.csv
 eda.py
 mlflow.db
+.DS_Store
